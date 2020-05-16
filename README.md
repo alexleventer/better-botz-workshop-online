@@ -1,5 +1,5 @@
 
-# Cassandra Developer Workshop : Better Botz
+# Cassandra Developer Workshop: Better Botz
 
 In this repository, you'll find everything from the online Cassandra Developer Workshop:
 - Materials used during presentations
@@ -9,7 +9,7 @@ Bookmark this page for future reference!
 
 ![OK](images/splash-screen.png?raw=true)
 
-## LINKS
+## Links
 - [twitter](https://twitter.com/BetterBotz)
 - [blog](https://dev.to/betterbotz)
 - [Astra](https://astra.datastax.com)
@@ -21,7 +21,7 @@ Bookmark this page for future reference!
 - [Getting Started with Apollo PYTHON](https://github.com/DataStax-Examples/getting-started-with-apollo-python)
 
 
-## BlogPosts
+## Blog Posts
 - [Building applications with Better Botz](https://medium.com/@betterbotz/building-applications-with-better-botz-13730e304e33)
 - [Creating an Express server for Better Botz](https://dev.to/betterbotz/creating-an-express-server-for-better-botz-4b00)
 - [Using Glitch with API](https://dev.to/betterbotz/using-glitch-and-the-astra-data-api-4fjk)
